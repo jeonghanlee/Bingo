@@ -1,9 +1,10 @@
 
-record(bi,"$(P)$(UNIT)ValueStatus")
+record(bi,"$(P)$(UNIT)")
 {
     field(DTYP, "Soft Channel")
-    field(ZNAM, "false")
-    field(ONAM, "true")
+    field(ZNAM, "$(UNIT)")
+    field(ONAM, "$(UNIT)")
+    field(PINI, "YES")
     info(autosaveFields_pass0, "VAL")
 }
 

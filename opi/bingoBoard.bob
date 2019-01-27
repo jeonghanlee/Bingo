@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<display version="2.0.0">
+  <name>Display</name>
+  <width>784</width>
+  <height>597</height>
+  <widget type="led" version="2.0.0">
+    <name>LED</name>
+    <pv_name>Bingo90:41</pv_name>
+    <x>31</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_2</name>
+    <pv_name>Bingo90:43</pv_name>
+    <x>175</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_3</name>
+    <pv_name>Bingo90:44</pv_name>
+    <x>248</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_4</name>
+    <pv_name>Bingo90:35</pv_name>
+    <x>320</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_5</name>
+    <pv_name>Bingo90:46</pv_name>
+    <x>393</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_6</name>
+    <pv_name>Bingo90:57</pv_name>
+    <x>465</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_7</name>
+    <pv_name>Bingo90:58</pv_name>
+    <x>538</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_8</name>
+    <pv_name>Bingo90:59</pv_name>
+    <x>610</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_9</name>
+    <pv_name>Bingo90:60</pv_name>
+    <x>683</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_100</name>
+    <pv_name>Bingo90:52</pv_name>
+    <x>103</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_101</name>
+    <pv_name>Bingo90:31</pv_name>
+    <x>31</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_102</name>
+    <pv_name>Bingo90:53</pv_name>
+    <x>175</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_103</name>
+    <pv_name>Bingo90:54</pv_name>
+    <x>248</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_104</name>
+    <pv_name>Bingo90:45</pv_name>
+    <x>320</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_105</name>
+    <pv_name>Bingo90:56</pv_name>
+    <x>393</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_106</name>
+    <pv_name>Bingo90:67</pv_name>
+    <x>465</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_107</name>
+    <pv_name>Bingo90:68</pv_name>
+    <x>538</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_108</name>
+    <pv_name>Bingo90:69</pv_name>
+    <x>610</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_109</name>
+    <pv_name>Bingo90:70</pv_name>
+    <x>683</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_110</name>
+    <pv_name>Bingo90:62</pv_name>
+    <x>103</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_111</name>
+    <pv_name>Bingo90:21</pv_name>
+    <x>31</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_112</name>
+    <pv_name>Bingo90:63</pv_name>
+    <x>175</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_113</name>
+    <pv_name>Bingo90:64</pv_name>
+    <x>248</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_114</name>
+    <pv_name>Bingo90:55</pv_name>
+    <x>320</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_115</name>
+    <pv_name>Bingo90:66</pv_name>
+    <x>393</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_116</name>
+    <pv_name>Bingo90:77</pv_name>
+    <x>465</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_117</name>
+    <pv_name>Bingo90:78</pv_name>
+    <x>538</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_118</name>
+    <pv_name>Bingo90:79</pv_name>
+    <x>610</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_119</name>
+    <pv_name>Bingo90:80</pv_name>
+    <x>683</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_120</name>
+    <pv_name>Bingo90:72</pv_name>
+    <x>103</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_121</name>
+    <pv_name>Bingo90:11</pv_name>
+    <x>31</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_122</name>
+    <pv_name>Bingo90:73</pv_name>
+    <x>175</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_123</name>
+    <pv_name>Bingo90:74</pv_name>
+    <x>248</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_124</name>
+    <pv_name>Bingo90:65</pv_name>
+    <x>320</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_125</name>
+    <pv_name>Bingo90:76</pv_name>
+    <x>393</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_126</name>
+    <pv_name>Bingo90:87</pv_name>
+    <x>465</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_127</name>
+    <pv_name>Bingo90:88</pv_name>
+    <x>538</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_128</name>
+    <pv_name>Bingo90:89</pv_name>
+    <x>610</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_129</name>
+    <pv_name>Bingo90:90</pv_name>
+    <x>683</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_130</name>
+    <pv_name>Bingo90:82</pv_name>
+    <x>103</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_131</name>
+    <pv_name>Bingo90:01</pv_name>
+    <x>31</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_132</name>
+    <pv_name>Bingo90:83</pv_name>
+    <x>175</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_133</name>
+    <pv_name>Bingo90:84</pv_name>
+    <x>248</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_134</name>
+    <pv_name>Bingo90:75</pv_name>
+    <x>320</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_135</name>
+    <pv_name>Bingo90:86</pv_name>
+    <x>393</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_136</name>
+    <pv_name>Bingo90:07</pv_name>
+    <x>465</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_137</name>
+    <pv_name>Bingo90:08</pv_name>
+    <x>538</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_138</name>
+    <pv_name>Bingo90:09</pv_name>
+    <x>610</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_139</name>
+    <pv_name>Bingo90:10</pv_name>
+    <x>683</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_140</name>
+    <pv_name>Bingo90:02</pv_name>
+    <x>103</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_141</name>
+    <pv_name>Bingo90:81</pv_name>
+    <x>31</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_142</name>
+    <pv_name>Bingo90:03</pv_name>
+    <x>175</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_143</name>
+    <pv_name>Bingo90:04</pv_name>
+    <x>248</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_144</name>
+    <pv_name>Bingo90:85</pv_name>
+    <x>320</x>
+    <y>530</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_145</name>
+    <pv_name>Bingo90:06</pv_name>
+    <x>393</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_146</name>
+    <pv_name>Bingo90:17</pv_name>
+    <x>465</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_147</name>
+    <pv_name>Bingo90:18</pv_name>
+    <x>538</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_148</name>
+    <pv_name>Bingo90:19</pv_name>
+    <x>610</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_149</name>
+    <pv_name>Bingo90:20</pv_name>
+    <x>683</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_150</name>
+    <pv_name>Bingo90:12</pv_name>
+    <x>103</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_151</name>
+    <pv_name>Bingo90:71</pv_name>
+    <x>31</x>
+    <y>464</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_152</name>
+    <pv_name>Bingo90:13</pv_name>
+    <x>175</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_153</name>
+    <pv_name>Bingo90:14</pv_name>
+    <x>248</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_154</name>
+    <pv_name>Bingo90:05</pv_name>
+    <x>320</x>
+    <y>7</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_155</name>
+    <pv_name>Bingo90:16</pv_name>
+    <x>393</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_156</name>
+    <pv_name>Bingo90:27</pv_name>
+    <x>465</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_157</name>
+    <pv_name>Bingo90:28</pv_name>
+    <x>538</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_158</name>
+    <pv_name>Bingo90:29</pv_name>
+    <x>610</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_159</name>
+    <pv_name>Bingo90:30</pv_name>
+    <x>683</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_160</name>
+    <pv_name>Bingo90:22</pv_name>
+    <x>103</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_161</name>
+    <pv_name>Bingo90:61</pv_name>
+    <x>31</x>
+    <y>399</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_162</name>
+    <pv_name>Bingo90:23</pv_name>
+    <x>175</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_163</name>
+    <pv_name>Bingo90:24</pv_name>
+    <x>248</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_164</name>
+    <pv_name>Bingo90:15</pv_name>
+    <x>320</x>
+    <y>72</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_165</name>
+    <pv_name>Bingo90:26</pv_name>
+    <x>393</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_166</name>
+    <pv_name>Bingo90:37</pv_name>
+    <x>465</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_167</name>
+    <pv_name>Bingo90:38</pv_name>
+    <x>538</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_168</name>
+    <pv_name>Bingo90:39</pv_name>
+    <x>610</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_169</name>
+    <pv_name>Bingo90:40</pv_name>
+    <x>683</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_170</name>
+    <pv_name>Bingo90:32</pv_name>
+    <x>103</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_171</name>
+    <pv_name>Bingo90:51</pv_name>
+    <x>31</x>
+    <y>333</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_172</name>
+    <pv_name>Bingo90:33</pv_name>
+    <x>175</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_173</name>
+    <pv_name>Bingo90:34</pv_name>
+    <x>248</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_174</name>
+    <pv_name>Bingo90:25</pv_name>
+    <x>320</x>
+    <y>137</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_175</name>
+    <pv_name>Bingo90:36</pv_name>
+    <x>393</x>
+    <y>203</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_176</name>
+    <pv_name>Bingo90:47</pv_name>
+    <x>465</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_177</name>
+    <pv_name>Bingo90:48</pv_name>
+    <x>538</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_178</name>
+    <pv_name>Bingo90:49</pv_name>
+    <x>610</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_179</name>
+    <pv_name>Bingo90:50</pv_name>
+    <x>683</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+  <widget type="led" version="2.0.0">
+    <name>LED_180</name>
+    <pv_name>Bingo90:42
+</pv_name>
+    <x>103</x>
+    <y>268</y>
+    <width>70</width>
+    <height>60</height>
+    <font>
+      <font family="Source Serif Pro" style="BOLD" size="36.0">
+      </font>
+    </font>
+    <square>true</square>
+    <labels_from_pv>true</labels_from_pv>
+  </widget>
+</display>
