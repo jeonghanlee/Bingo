@@ -1,4 +1,4 @@
-Bingo Board IOC
+Bingo Main Board (1-90) EPICS IOC
 ====
 
 This is the extreme simple IOC for display the Bingo Board from 1 to 90. Each number is BI, is controlled by `caput`. 
@@ -23,3 +23,9 @@ bash tools/turnon.bash -v 20 -f
 ```
 caput Bingo90:20 1
 ```
+
+## Screen Shot
+
+|![BingoMainBoard](Bingo90.png) |    
+| :---: |    
+| **Figure 1** Bingo 90 Main Board Screen based on CSS Bob. |   
