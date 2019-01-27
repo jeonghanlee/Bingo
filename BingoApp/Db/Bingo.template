@@ -1,0 +1,9 @@
+
+record(bi,"$(P)$(UNIT)ValueStatus")
+{
+    field(DTYP, "Soft Channel")
+    field(ZNAM, "false")
+    field(ONAM, "true")
+    info(autosaveFields_pass0, "VAL")
+}
+
