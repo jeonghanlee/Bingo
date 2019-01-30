@@ -8,3 +8,17 @@ record(bi,"$(P)$(UNIT)")
     info(autosaveFields_pass0, "VAL")
 }
 
+
+record(acalcout,"$(P)Calc1")
+{
+    field(PINI, "YES")
+    field(NELM, "90")
+    field(CALC, "ARNDM")
+    field( OUT, "$(P)Calc2.AA PP")
+}
+
+
+record(acalcout,"$(P)Calc2")
+{
+    field(CALC, "FLOOR(1 + ( 90 - 1 )*AA)")
+}
