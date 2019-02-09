@@ -10,10 +10,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -24,10 +32,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -38,10 +54,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -52,10 +76,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -66,10 +98,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -80,10 +120,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -94,10 +142,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -108,10 +164,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -122,10 +186,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -136,10 +208,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -150,10 +230,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -164,10 +252,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -178,10 +274,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -192,10 +296,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -206,10 +318,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -220,10 +340,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -234,10 +362,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -248,10 +384,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -262,10 +406,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -276,10 +428,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -290,10 +450,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -304,10 +472,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -318,10 +494,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -332,10 +516,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -346,10 +538,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -360,10 +560,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -374,10 +582,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -388,10 +604,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -402,10 +626,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -416,10 +648,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -430,10 +670,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -444,10 +692,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -458,10 +714,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -472,10 +736,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -486,10 +758,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -500,10 +780,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -514,10 +802,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -528,10 +824,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -542,10 +846,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -556,10 +868,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -570,10 +890,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -584,10 +912,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -598,10 +934,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -612,10 +956,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -626,10 +978,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -640,10 +1000,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -654,10 +1022,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -668,10 +1044,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -682,10 +1066,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -696,10 +1088,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -710,10 +1110,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -724,10 +1132,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -738,10 +1154,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -752,10 +1176,18 @@
     <y>530</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -766,10 +1198,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -780,10 +1220,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -794,10 +1242,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -808,10 +1264,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -822,10 +1286,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -836,10 +1308,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -850,10 +1330,18 @@
     <y>464</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -864,10 +1352,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -878,10 +1374,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -892,10 +1396,18 @@
     <y>7</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -906,10 +1418,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -920,10 +1440,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -934,10 +1462,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -948,10 +1484,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -962,10 +1506,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -976,10 +1528,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -990,10 +1550,18 @@
     <y>399</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1004,10 +1572,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1018,10 +1594,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1032,10 +1616,18 @@
     <y>72</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1046,10 +1638,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1060,10 +1660,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1074,10 +1682,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1088,10 +1704,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1102,10 +1726,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1116,10 +1748,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1130,10 +1770,18 @@
     <y>333</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1144,10 +1792,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1158,10 +1814,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1172,10 +1836,18 @@
     <y>137</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1186,10 +1858,18 @@
     <y>203</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1200,10 +1880,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1214,10 +1902,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1228,10 +1924,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1242,10 +1946,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
@@ -1257,10 +1969,18 @@
     <y>268</y>
     <width>70</width>
     <height>60</height>
+    <on_color>
+      <color name="LED-MAGENTA-ON" red="255" green="82" blue="218">
+      </color>
+    </on_color>
     <font>
       <font family="Source Serif Pro" style="BOLD" size="36.0">
       </font>
     </font>
+    <foreground_color>
+      <color name="WHITE" red="255" green="255" blue="255">
+      </color>
+    </foreground_color>
     <square>true</square>
     <labels_from_pv>true</labels_from_pv>
   </widget>
