@@ -16,4 +16,10 @@ test
 *.Makefile
 cmds/random.cmd
 cmds/random_tmp
-
+bin/
+db/
+dbd/
+O.Common/
+O.linux-x86_64/
+core
+envPaths

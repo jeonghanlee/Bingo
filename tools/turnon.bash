@@ -16,8 +16,8 @@
 #
 # Author  : Jeong Han Lee
 # email   : jeonghan.lee@gmail.com
-# Date    : Friday, January  4 16:47:35 CET 2019
-# version : 0.1.0
+# Date    : Saturday, February  9 13:25:11 CET 2019
+# version : 0.2.0
 
 
 options=":v:f"
@@ -33,6 +33,7 @@ function usage
 	echo "";
 	echo "               -v : Bingo Board Number "
 	echo "               -f : OFF"
+	echo "";
 	echo " bash $0 -v 24"
 	echo " bash $0 -v 24 -f"
 	echo ""
@@ -63,14 +64,21 @@ done
 shift $((OPTIND-1))
 
 
+if [ -z "$NUMBER" ]; then
+    usage;
+fi
 
-    echo "$STATUS"
+if [[ ${#NUMBER} -lt 2 ]] ; then
+    NUMBER="00${NUMBER}"
+    NUMBER="${NUMBER: -2}"
+fi
+ 
+
 if [ "$STATUS" == "ON" ]; then
     caput Bingo90:${NUMBER} 1
 else
-
     caput Bingo90:${NUMBER} 0
 fi
 
 
-
+exit

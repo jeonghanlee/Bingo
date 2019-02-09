@@ -9,16 +9,29 @@ record(bi,"$(P)$(UNIT)")
 }
 
 
-record(acalcout,"$(P)Calc1")
-{
-    field(PINI, "YES")
-    field(NELM, "90")
-    field(CALC, "ARNDM")
-    field( OUT, "$(P)Calc2.AA PP")
-}
+# record(acalcout,"$(P)Calc1")
+# {
+#     field(PINI, "YES")
+#     field(NELM, "90")
+#     field(CALC, "ARNDM")
+#     field( OUT, "$(P)Calc2.AA PP")
+# }
 
 
-record(acalcout,"$(P)Calc2")
-{
-    field(CALC, "FLOOR(1 + ( 90 - 1 )*AA)")
-}
+# record(acalcout,"$(P)Calc2")
+# {
+#     field(CALC, "FLOOR(1 + ( 90 - 1 )*AA)")
+# }
+
+# record(acalcout,"$(P)Calc3")
+# {
+#     field(CALC, "FLOOR( A * RNDM)")
+#     field(INPA, "$(P)MaxNumber")
+#     field(SCAN, "1 second")
+# }
+
+# record(ai, "$(P)MaxNumber")
+# {
+#     field(VAL, 90)
+# }
+  
