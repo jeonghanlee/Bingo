@@ -24,6 +24,14 @@ bash tools/turnon.bash -v 20 -f
 caput Bingo90:20 1
 ```
 
+* one can turn off all selected numbers
+
+```
+bash tools/turnoff_all.bash
+```
+
+* Note that PV is the hard-coded in OPI, and scripts.
+
 ## Screen Shot
 
 |![BingoMainBoard](Bingo90.png) |    
